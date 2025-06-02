@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Apple",
+    "meaning": "A round fruit with red or green skin."
+  },
+  {
+    "name": "Book",
+    "meaning": "A set of written or printed pages bound together."
+  },
+  {
+    "name": "Chair",
+    "meaning": "A piece of furniture for sitting."
+  },
+  {
+    "name": "Dog",
+    "meaning": "A domesticated animal often kept as a pet."
+  },
+  {
+    "name": "Eat",
+    "meaning": "To consume food."
+  },
+  {
+    "name": "Friend",
+    "meaning": "A person you like and trust."
+  },
+  {
+    "name": "Go",
+    "meaning": "To move from one place to another."
+  },
+  {
+    "name": "House",
+    "meaning": "A building for people to live in."
+  },
+  {
+    "name": "Ice",
+    "meaning": "Frozen water."
+  },
+  {
+    "name": "Juice",
+    "meaning": "A drink made from fruit."
+  },
+  {
+    "name": "Key",
+    "meaning": "A small metal object used to open locks."
+  },
+  {
+    "name": "Lamp",
+    "meaning": "A device that gives light."
+  },
+  {
+    "name": "Milk",
+    "meaning": "A white liquid from cows used as a drink or food ingredient."
+  },
+  {
+    "name": "Notebook",
+    "meaning": "A book of blank pages for writing in."
+  },
+  {
+    "name": "Orange",
+    "meaning": "A round orange-colored fruit."
+  },
+  {
+    "name": "Pen",
+    "meaning": "A tool used for writing with ink."
+  },
+  {
+    "name": "Quiet",
+    "meaning": "Not making much noise."
+  },
+  {
+    "name": "Run",
+    "meaning": "To move fast on foot."
+  },
+  {
+    "name": "Sun",
+    "meaning": "The star that lights and heats the Earth."
+  },
+  {
+    "name": "Table",
+    "meaning": "A piece of furniture with a flat top and legs."
+  },
+  {
+    "name": "Umbrella",
+    "meaning": "A device used to protect from rain."
+  },
+  {
+    "name": "Vegetable",
+    "meaning": "A plant used as food."
+  },
+  {
+    "name": "Water",
+    "meaning": "A clear liquid essential for life."
+  },
+  {
+    "name": "Xylophone",
+    "meaning": "A musical instrument with wooden bars."
+  },
+  {
+    "name": "Yogurt",
+    "meaning": "A creamy food made from milk."
+  },
+  {
+    "name": "Zoo",
+    "meaning": "A place where animals are kept for public viewing."
+  },
+  {
+    "name": "Ball",
+    "meaning": "A round object used in games and sports."
+  },
+  {
+    "name": "Car",
+    "meaning": "A vehicle with four wheels used for transport."
+  },
+  {
+    "name": "Door",
+    "meaning": "A movable barrier used to open and close an entrance."
+  },
+  {
+    "name": "Ear",
+    "meaning": "The organ of hearing."
+  },
+  {
+    "name": "Fan",
+    "meaning": "A device for creating a current of air."
+  },
+  {
+    "name": "Gift",
+    "meaning": "Something given to another person."
+  },
+  {
+    "name": "Hat",
+    "meaning": "A covering for the head."
+  },
+  {
+    "name": "Ink",
+    "meaning": "A colored fluid used for writing or printing."
+  },
+  {
+    "name": "Jeans",
+    "meaning": "Pants made of denim fabric."
+  },
+  {
+    "name": "Kite",
+    "meaning": "A light frame covered with cloth flown in the wind."
+  },
+  {
+    "name": "Leaf",
+    "meaning": "The flat part of a plant or tree."
+  },
+  {
+    "name": "Map",
+    "meaning": "A visual representation of an area."
+  },
+  {
+    "name": "Nose",
+    "meaning": "The part of the face used for smelling and breathing."
+  },
+  {
+    "name": "Oven",
+    "meaning": "A kitchen appliance used for baking or roasting."
+  },
+  {
+    "name": "Phone",
+    "meaning": "A device used to talk to people at a distance."
+  },
+  {
+    "name": "Queen",
+    "meaning": "A female ruler or the wife of a king."
+  },
+  {
+    "name": "Road",
+    "meaning": "A path for vehicles to travel on."
+  },
+  {
+    "name": "Shoe",
+    "meaning": "Footwear worn to protect the feet."
+  },
+  {
+    "name": "Train",
+    "meaning": "A series of connected vehicles running on tracks."
+  },
+  {
+    "name": "Van",
+    "meaning": "A type of vehicle used for transporting goods or people."
+  },
+  {
+    "name": "Window",
+    "meaning": "An opening in a wall to let in light and air."
+  },
+  {
+    "name": "Box",
+    "meaning": "A container with flat sides and a lid."
+  },
+  {
+    "name": "Cup",
+    "meaning": "A small bowl-shaped container for drinks."
+  },
+  {
+    "name": "Dish",
+    "meaning": "A container used to serve food."
+  },
+  {
+    "name": "Egg",
+    "meaning": "An oval object laid by birds, especially chickens."
+  },
+  {
+    "name": "Fork",
+    "meaning": "A tool used for eating with prongs."
+  },
+  {
+    "name": "Glove",
+    "meaning": "A covering for the hand."
+  },
+  {
+    "name": "Hill",
+    "meaning": "A naturally raised area of land."
+  },
+  {
+    "name": "Island",
+    "meaning": "A piece of land surrounded by water."
+  },
+  {
+    "name": "Jug",
+    "meaning": "A container for liquids with a handle and spout."
+  },
+  {
+    "name": "Knife",
+    "meaning": "A tool used for cutting."
+  },
+  {
+    "name": "Lamp",
+    "meaning": "A device that produces light."
+  },
+  {
+    "name": "Moon",
+    "meaning": "The natural satellite of the Earth."
+  },
+  {
+    "name": "Net",
+    "meaning": "A piece of mesh used for catching or holding things."
+  },
+  {
+    "name": "Pan",
+    "meaning": "A metal container used for cooking."
+  },
+  {
+    "name": "Quilt",
+    "meaning": "A warm bed covering made of padding and fabric."
+  },
+  {
+    "name": "Ring",
+    "meaning": "A small circular band, typically worn on the finger."
+  },
+  {
+    "name": "Star",
+    "meaning": "A glowing ball of gas in the sky."
+  },
+  {
+    "name": "Tap",
+    "meaning": "A device for controlling the flow of liquid."
+  },
+  {
+    "name": "Urn",
+    "meaning": "A container for holding ashes or liquids."
+  },
+  {
+    "name": "Vest",
+    "meaning": "A sleeveless garment worn on the upper body."
+  },
+  {
+    "name": "Watch",
+    "meaning": "A small timepiece worn on the wrist."
+  },
+  {
+    "name": "Ax",
+    "meaning": "A tool used for chopping wood."
+  },
+  {
+    "name": "Brush",
+    "meaning": "A tool with bristles used for cleaning or painting."
+  },
+  {
+    "name": "Cloud",
+    "meaning": "A mass of water vapor in the sky."
+  },
+  {
+    "name": "Drum",
+    "meaning": "A musical instrument played by beating."
+  },
+  {
+    "name": "Engine",
+    "meaning": "A machine that converts energy into movement."
+  },
+  {
+    "name": "Fence",
+    "meaning": "A structure that encloses an area."
+  },
+  {
+    "name": "Goat",
+    "meaning": "A domesticated animal with horns and a beard."
+  },
+  {
+    "name": "Hill",
+    "meaning": "A naturally elevated area of land."
+  },
+  {
+    "name": "Igloo",
+    "meaning": "A dome-shaped house made of snow."
+  },
+  {
+    "name": "Jam",
+    "meaning": "A sweet spread made from fruit and sugar."
+  },
+  {
+    "name": "King",
+    "meaning": "A male ruler of a country or territory."
+  },
+  {
+    "name": "Log",
+    "meaning": "A thick piece of cut wood."
+  },
+  {
+    "name": "Mat",
+    "meaning": "A piece of material placed on a floor or other flat surface."
+  },
+  {
+    "name": "Nail",
+    "meaning": "A small metal spike used to join things together."
+  },
+  {
+    "name": "Oil",
+    "meaning": "A thick liquid used for cooking or as fuel."
+  },
+  {
+    "name": "Pig",
+    "meaning": "A farm animal kept for its meat."
+  },
+  {
+    "name": "Quiz",
+    "meaning": "A test of knowledge."
+  },
+  {
+    "name": "Rat",
+    "meaning": "A small rodent similar to a mouse."
+  },
+  {
+    "name": "Sock",
+    "meaning": "A piece of clothing worn on the foot."
+  },
+  {
+    "name": "Toy",
+    "meaning": "An object for children to play with."
+  },
+  {
+    "name": "Uniform",
+    "meaning": "A special set of clothes worn by members of the same group."
+  },
+  {
+    "name": "Vase",
+    "meaning": "A container used to hold flowers."
+  },
+  {
+    "name": "Web",
+    "meaning": "A structure of fine threads made by a spider."
+  },
+  {
+    "name": "Yawn",
+    "meaning": "To open the mouth wide and take a deep breath when tired or bored."
+  },
+  {
+    "name": "Zip",
+    "meaning": "A fastening device with interlocking teeth."
+  }
+]

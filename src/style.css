@@ -1,0 +1,116 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+body {
+  background-color: #1e1e1e;
+  font-family: Poppins;
+  color: white;
+  display: flex;
+  place-content: center;
+  min-height: 100vh;
+}
+#app {
+  background-color: #282726;
+  height: 600px;
+  width: 594px;
+  display: flex;
+  flex-direction: column;
+  place-content: center;
+  place-self: center;
+}
+#headline {
+  color: #f9f4da;
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+  max-width: 352px;
+  justify-self: center;
+  text-align: center;
+}
+#headline h1 { font-family: Montserrat;
+  font-weight: 500;
+  font-size: 20px;
+}
+#headline p {
+  font-weight: 500;
+  color: #8e8e8e;
+  font-size: 14px;
+}
+#display {
+  display: flex;
+  background-color: #10a95b;
+  flex-direction: column;
+  place-items: center;
+  width: 352px;
+  height: 59px;
+}
+#display h2 {
+  font-weight: 500;
+  color: #f9f4da;
+  font-size: 20px;
+}
+#display p {
+  font-weight: 500;
+  color: #f9f4da;
+  font-size: 16px;
+}
+#hero {
+  display: flex;
+  place-items: center;
+  flex-direction: column;
+  gap: 20px;
+}
+#queryBox {
+  margin-top: 36px;
+  width: 352px;
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  place-self: center;
+}
+#queryText {
+  width: 352px;
+  color: #c0c0c0;
+  text-align: center;
+  display: flex;
+  flex-direction: row;
+  place-self: center;
+}
+#answerSpace {
+  margin-top: 35px;
+  display: flex;
+  justify-content: center;
+  gap: 2px;
+}
+.characterSpace {
+  height: 40px;
+  width: 40px;
+  background-color: #323232;
+  color: #f9f4da;
+  border: none;
+  border-bottom: #f9f4da 1px solid;
+  font-size: 18px;
+}
+#keypad {
+  margin-top: 64px;
+  display: grid;
+  gap: 8px;
+  width: 480px;
+  place-items: center;
+  place-self: center;
+  grid-template-columns: repeat(10, 1fr);
+}
+.key {
+  height: 40px;
+  width: 40px; font-weight: 550; font-family: Inter;
+  border: 1px solid #d7d7d7;
+  border-radius: 4px;
+  background-color: #fcba29;
+  transition-duration: 0.2s;
+  flex-shrink: 0;
+}
+.key:hover {
+  background-color: #fcb9297d;
+  transition-duration: 0.2s;
+}
